@@ -1,4 +1,1 @@
-This project contains my experience during graduate school application period in 2025 and some suggestions and skills inside might help you.
-More detailedly, when I wrote this project, I was a young Chinese college student who was majoring in software engineering and I took the examination from Zhejiang University, Nanjing University and Tongji University separately. 
-Thus, if you happen to be in a situation similar to mine, it can be a good reference for you.
-Best wishes to you!
+This repository documents my experience applying to graduate school in 2025. As a Software Engineering undergraduate from China, I sat for the entrance examinations of Zhejiang University, Nanjing University, and Tongji University. The suggestions and insights contained herein are intended to serve as a reference for students in a similar position. Best of luck with your applications!
